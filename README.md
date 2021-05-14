@@ -64,4 +64,4 @@ The user should be able to:
 
 ------------
 ## 📸Screenshot
-![alt text]()
+![alt text](https://github.com/sungjk77/hw17-Workout-Tracker/blob/master/assets/images/screenshot.JPG)
